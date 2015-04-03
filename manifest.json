@@ -13,7 +13,11 @@
             ],
   
   "content_security_policy": "script-src 'self'; object-src 'self'; style-src 'self'; font-src 'self'",
-    
+  
+  "icons": { "16": "Icons/tab_16.png",
+             "48": "Icons/tab_48.png",
+             "128": "Icons/tab_128.png" 
+  },
 
   "chrome_url_overrides" : {
     "newtab": "info.html"
