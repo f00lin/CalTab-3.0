@@ -5,3 +5,27 @@ html {
     background-color: grey;
     color: black;
     }
+    
+    
+/* Font Declarations */
+
+@font-face
+{
+font-family: MyriadPro-Regular;
+font-style: normal;
+src: url('../Fonts/MYRIADPRO-REGULAR.OTF')
+}
+
+@font-face
+{
+font-family: "MyriadPro-Cond";
+font-style: normal;
+src: url('../Fonts/MYRIADPRO-COND.OTF')
+}
+
+@font-face
+{
+font-family: "catull";
+font-style: normal;
+src: url('../Fonts/catull.ttf')
+}
