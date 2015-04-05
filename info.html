@@ -12,22 +12,22 @@
             <a href="#" id="options" class="conf">&#9881;</a>
         </div>
         
-        <header>
-            <div class="timeZone">
+        <div class="zoneBlock">
+            <div id="zoneLeft" class="timeZone">
                 <p id="homeName" class="tzname"></p>
                 <p id="homeTime" class="tzclock"></p>
             </div>
                 
-            <div class="timeZone">
+            <div id="zoneCenter" class="timeZone">
                 <p id="zoneOneName" class="tzname"></p>
                 <p id="zoneOneTime" class="tzclock"></p>
             </div>
                 
-            <div class="timeZone">
+            <div id="zoneRight" class="timeZone">
                 <p id="zoneTwoName" class="tzname"></p>
                 <p id="zoneTwoTime" class="tzclock"></p>
             </div>
-        </header>
+        </div>
         
         
         <div id="dates">
@@ -45,8 +45,8 @@
             </div>
             <div id="cal" class="shift_up"></div>
         </div>
-      
-        
+    
+            
         <!-- Library scripts -->
         <script src="../Scripts/Library/Moment/moment.js"></script>
         <script src="../Scripts/Library/Moment/moment-timezone.js"></script>

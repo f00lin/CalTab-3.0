@@ -33,3 +33,15 @@ font-family: "catull";
 font-style: normal;
 src: url('../Fonts/catull.ttf')
 }
+
+
+/* Styling */
+
+.boxTrim {
+  border-style: solid;
+  border-top-width: 5px;
+  border-top-color: rgba(88, 117, 238, 1);
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
