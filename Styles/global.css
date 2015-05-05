@@ -1,8 +1,6 @@
 html {
     font-size: 100%;
-    /*background: url(../Assets/dream_fields.jpg) no-repeat center center fixed;
-    background-size: cover;*/
-    background-color: grey;
+    background-image: repeating-linear-gradient(to bottom,rgb(200, 226, 241) 0%,rgb(88, 171, 215) 50%,rgb(61, 141, 190) 51%,rgb(149, 210, 245) 100%);
     color: black;
     }
     
