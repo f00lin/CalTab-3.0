@@ -2,7 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('options').addEventListener('click', function() {
-        chrome.tabs.update({ url: 'chrome://extensions?options=janihfemonchhomndhadfidkieocndne' });
+        chrome.tabs.update({ url: 'chrome://extensions?options=fkenfnefflongfibiaibcgbmjoeehmdi' });
     });
 });
 
