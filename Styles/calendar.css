@@ -37,11 +37,11 @@
 
 .calendarTable td.currentDay {
     font-weight: bold;
-    font-size: 2.25em;
+    font-size: 2em;
     /*color: rgba(245, 13, 9, 1);*/
-    border: solid;
+    border-bottom: solid;
     border-color: rgba(88, 117, 238, 1);
-    border-radius: 50%;
+    /*border-radius: 40%;*/
     }
 
 
